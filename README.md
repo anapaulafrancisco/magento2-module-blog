@@ -1,2 +1,2 @@
-# magento2-module-blog
+# Mage Ana - Blog
 Blog extension for Magento 2
