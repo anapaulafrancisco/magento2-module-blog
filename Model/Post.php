@@ -3,6 +3,7 @@
 declare(strict_types=1);
 
 namespace MageAna\Blog\Model;
+
 use Magento\Framework\Model\AbstractModel;
 use MageAna\Blog\Model\ResourceModel\Post as PostResourceModel;
 
