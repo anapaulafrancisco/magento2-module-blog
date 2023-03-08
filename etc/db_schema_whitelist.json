@@ -1,0 +1,17 @@
+{
+    "mageana_blog_post": {
+        "column": {
+            "post_id": true,
+            "title": true,
+            "meta_keywords": true,
+            "meta_description": true,
+            "content": true,
+            "creation_time": true,
+            "update_time": true,
+            "meta_title": true
+        },
+        "constraint": {
+            "PRIMARY": true
+        }
+    }
+}
